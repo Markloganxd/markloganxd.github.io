@@ -1,10 +1,9 @@
 ---
 ---
 body {
-    font-family: "Courier New", Courier, monospace !important;
-    color: #00FF00 !important;
+    font-family: "Impact", "Arial Black", sans-serif !important;
+    font-size: 80px !important;
+    text-transform: uppercase !important;
+    color: #FF0000 !important;
     background: #222 !important;
-    max-width: 800px;
-    margin: 0 auto;
-    padding: 20px;
 }
