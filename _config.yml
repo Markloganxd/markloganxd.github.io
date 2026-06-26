@@ -1,2 +1,6 @@
-theme: []
-plugins: []
+title: *bitch alert* # 'site' title
+
+# put global vars here (all vars are accessed with 'site.<varname>'
+
+# makes rebuilding faster by only rebuilding modified files
+incremental: true
